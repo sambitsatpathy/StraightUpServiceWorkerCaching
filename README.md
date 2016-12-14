@@ -1,1 +1,2 @@
 # StraightUpServiceWorkerCaching
+(works in Chrome)
